@@ -5,7 +5,7 @@ An Apple and Android Push Notification Service bundle for Laravel
 =============
 ###Artisan
 ```php
-php artisan bundle:install push
+php artisan bundle:install laravel-push-notifications-ios-android
 ```
 ###Manualy
 ```php
