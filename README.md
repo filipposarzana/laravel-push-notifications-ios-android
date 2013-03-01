@@ -88,6 +88,9 @@ ACTION KEY -> Slide to 'ACTION KEY'
 EXTRA PARAMETERS -> array(). Add any extra parameters as array to be sent to the application and do extra functions such as open a defined view.
 ```
 
+**Certificate for iOS**
+Paste your certificate into **push/certificates/** and change configurations if you've changed file name
+
 **Send a message:**
 iOS
 ```php
