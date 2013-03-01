@@ -23,6 +23,10 @@ Add the following code to your **application/bundle.php** file:
 	)
 ```
 
+##Certificate for iOS
+===============
+Paste your certificate into **push/certificates/** and change configurations if you've changed file name
+
 ##Configuration
 ===============
 Edit the **config/push.php** file with your settings:
